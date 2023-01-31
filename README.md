@@ -1,5 +1,6 @@
 # The-Witcher-Network-Analysis
-Web Scraping using Selenium +  Network Analysis of The Witcher.
+Web Scraping using Selenium + relationship extraction using NLP + Network Analysis of The Witcher.
+![vid](https://user-images.githubusercontent.com/73981055/215741477-76352669-5347-4f2c-8973-dca06fa0a817.gif)
 
 <p>Here are the steps to run this project:</p>
 <ol>
